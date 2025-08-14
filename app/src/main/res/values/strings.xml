@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AND102Prework</string>
+    <string name="intro">Hello! My name is Anh Nguyen and I love building apps!</string>
+    <string name="button_name">Say Hello!</string>
+</resources>
